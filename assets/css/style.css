@@ -1,0 +1,38 @@
+.list-group-item{
+    margin: 5px;
+}
+
+
+body{
+    /* background-color: #51c0c9; */
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container{
+    background-color: #e9d886;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+h1{
+    color: #423e3e;
+    font-size: 40px;
+}
+h1, p, .list-group-item, #imageHolder, #giftarget{
+    display: flex;
+    justify-content: center;
+}
+#question{
+    font-size:30px;
+}
+#timeRemaining{
+    font-size: 25px;
+}
+
+
+
